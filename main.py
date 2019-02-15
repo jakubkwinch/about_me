@@ -16,3 +16,8 @@ born = input('What year were you born?')
 born = int(born)
 age = (2025-born)
 print("In 2025 you'll be:", age, "years old!")
+
+print('Na ' *4)
+print('Na ' *4)
+print('Hey '* 3)
+print('Good bye!')
